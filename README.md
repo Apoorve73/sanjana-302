@@ -57,8 +57,7 @@ int main()
                                                  (I can boring at times :P)"
   everythingElse["Fun fact 🌱"] = "I run like a girl, trying to keep up with it"
   
-  
-	return 0;
+  return 0;
 }
 ```
 <div>
