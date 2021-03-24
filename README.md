@@ -47,15 +47,15 @@ int main()
 {
   string ⚡bio = "I am Sanjana, passionate coder on a noble mission to experiment with technology. 
                     I am labelled to create chaos with code, 
-                    so bugs just stay with me, they won't hunt you :P"
+                    so bugs just stay with me, they won't hunt you :P";
   // No idea about collision handling here, if you hear them a lot ping me :P
   unordered_map<string,string> everythingElse;
   everythingElse["Pronouns 💬"] = "She/her"
   everythingElse["Ask me about 👯"] = "React,firebase,flutter,data structures,algorithms.
-                                       We can even talk dynamic programming, I won't run away :P"
+                                       We can even talk dynamic programming, I won't run away :P";
   everythingElse["I’m currently learning 🔭"] = "Databases,flutter,theoritical computer science
-                                                 (I can boring at times :P)"
-  everythingElse["Fun fact 🌱"] = "I run like a girl, trying to keep up with it"
+                                                 (I can boring at times :P)";
+  everythingElse["Fun fact 🌱"] = "I run like a girl, trying to keep up with it";
   
   return 0;
 }
